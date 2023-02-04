@@ -1,10 +1,12 @@
 # vesgoboy_municoes
 Ammo Script for REDM
 
-Add in Inventory Redemrp_Inventory 2.0
+Add in Inventory # redemrp_inventory 2.0v
+
+
 -----------MUNICOES------------
 -- ammos
-
+```
 ["revolver_ammo"] = {
 	label = "Munição de Revólver",
 	description = "Munição Leve, Utilizado em Revolvers",
@@ -196,3 +198,4 @@ Add in Inventory Redemrp_Inventory 2.0
 	type = "item_standard",
 	imgsrc = "items/ammo_bow_arrow.png",
 },
+```
