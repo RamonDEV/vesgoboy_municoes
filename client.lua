@@ -86,8 +86,8 @@ end
 
 RegisterNetEvent('vesgoboy_municoes:equiparammo')
 AddEventHandler('vesgoboy_municoes:equiparammo', function(calibre)
-    TriggerEvent("redemrp_inventory:closeinv")
-    Citizen.Wait(500)
+    --TriggerEvent("redemrp_inventory:closeinv")
+    --Citizen.Wait(500)
     QuantidadeMunicao(calibre)
 end)
 
