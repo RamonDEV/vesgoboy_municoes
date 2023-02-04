@@ -3,7 +3,7 @@ Ammo Script for REDM
 
 Add in Inventory # redemrp_inventory 2.0v
 
-1º Weapon must be in Hand, Except for the bow and arrow
+1º Weapon must be in Hand, Except for the bow and arrow <br>
 2º I placed a Limit for Equipping the Ammunition, if you want to change it in Config.lua
 
 -----------MUNICOES------------
