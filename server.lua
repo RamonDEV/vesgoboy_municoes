@@ -17,7 +17,7 @@ Citizen.CreateThread(function()
         RegisterServerEvent("RegisterUsableItem:"..calibre)
         AddEventHandler("RegisterUsableItem:"..calibre, function(source)
             local _source = source
-	    TriggerClientEvent('redemrp_inventory:close_inventory',_source)
+	    TriggerClientEvent("redemrp_inventory:closeinv",_source)
             TriggerClientEvent('vesgoboy_municoes:equiparammo', _source, calibre)
         end)
     end
